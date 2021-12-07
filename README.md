@@ -9,10 +9,10 @@
 
 ### Links
 
-[Resume](https://blog.rajeevkr.me/wp-content/uploads/2018/11/Rajeevs-Resume.pdf) 
-[Website](https://rajeevkr.me)
-[Blog](https://blog.rajeevkr.me) - 
-[LinkedIn](https://www.linkedin.com/in/rajeev-karuvath/)
+- 💼 [Resume](https://blog.rajeevkr.me/wp-content/uploads/2018/11/Rajeevs-Resume.pdf) 
+- 🌐 [Website](https://rajeevkr.me)
+- ✍️ [Blog](https://blog.rajeevkr.me)
+- 💬 [LinkedIn](https://www.linkedin.com/in/rajeev-karuvath/)
 
 <!--
 **rajeevravindran/rajeevravindran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
